@@ -24,6 +24,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 🔭 I’m currently working on ... 
 
@@ -33,7 +34,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 🤔 I’m looking for help with ...
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 💬 Ask me about ...
 
