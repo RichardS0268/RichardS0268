@@ -6,10 +6,12 @@
 <a href="https://www.linkedin.com/in/shuai-song-21a98320b/">
   <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
-![](https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on ...
