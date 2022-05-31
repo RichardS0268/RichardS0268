@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '33 16 * * *'
+    - cron: '34 17 * * *'
 
 jobs:
   update-readme:
