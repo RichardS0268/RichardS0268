@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
 - 🔭 I’m currently working on ...
