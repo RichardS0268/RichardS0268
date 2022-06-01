@@ -32,7 +32,7 @@ No activity tracked
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={richards0268}&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
   </div>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
