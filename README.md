@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/shuai-song-21a98320b/">
   <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="song-s20@mails.tsinghua.edu.cn">
+  <img align="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268">
 
 
