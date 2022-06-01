@@ -26,7 +26,7 @@ No activity tracked
 
 🌱 I’m interested in ***Machine Learning***, ***Deep Learning*** and their applications in finance.
 
-<div align="center"> - ⚙ I'm frequently using 
+⚙ I'm frequently using 
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
