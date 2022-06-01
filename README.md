@@ -27,7 +27,7 @@ No activity tracked
 - 🌱 I’m interested in ***Machine Learning***, ***Deep Learning*** and their applications in finance.
 
 - ⚙ I'm frequently using 
-  <div align="center">
+  <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
