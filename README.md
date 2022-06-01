@@ -13,7 +13,8 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&langs_count=8&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&langs_count=8&layout=compact)
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -35,7 +36,7 @@ No activity tracked
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&layout=default)](https://github.com/anuraghazra/github-readme-stats">
+  
   </div>
 
 
