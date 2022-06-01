@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/shuai-song-21a98320b/">
   <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.kaggle.com/richardsong268">
+  <img align="left" alt="Richard's Kaggle" width="22px" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" />
+</a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268">
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
