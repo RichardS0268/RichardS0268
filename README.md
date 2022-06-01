@@ -23,7 +23,7 @@ No activity tracked
 
 - 🔭 I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing. 
 
-- 🌱 I’m interested in ***Machine Learning***, ***Deep Learning*** and their applications in finance.
+- 🌱 I’m interested in _Machine Learning_, _Deep Learning_ and their _applications in finance_.
 
 - ⚙ I'm frequently using 
   <div align="left">
