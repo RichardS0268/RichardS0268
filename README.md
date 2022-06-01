@@ -7,8 +7,12 @@
   <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a>
 ![](https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268)
-
+</a>
+<a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richards0268&langs_count=8&layout=compact
+</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
