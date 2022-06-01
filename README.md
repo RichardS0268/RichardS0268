@@ -9,11 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268)
 
 
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
-
 
 
 📊 **this week i spent my time on:**
