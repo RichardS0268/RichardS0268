@@ -21,11 +21,11 @@ No activity tracked
 <!--END_SECTION:waka-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-🔭 I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing. 
+🔭 **I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing. **
 
-🌱 I’m interested in _Machine Learning_, _Deep Learning_  and their _applications in finance_.
+🌱 **I’m interested in _Machine Learning_, _Deep Learning_  and their _applications in finance_.**
 
-⚙ I'm frequently using 
+⚙ **I'm frequently using **
   <div align="left">
   <img src="https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=Jupyter">
   <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white">
