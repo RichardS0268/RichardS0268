@@ -22,23 +22,10 @@ No activity tracked
 <!--END_SECTION:waka-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-🔭 I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing. 
+- 🔭 I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing. 
 
-🌱 I’m interested in ***Machine Learning***, ***Deep Learning*** and their applications in finance.
-
-👯 I’m looking to collaborate on ...
-
-🤔 I’m looking for help with ...
+- 🌱 I’m interested in ***Machine Learning***, ***Deep Learning*** and their applications in finance.
 
 
-
-💬 Ask me about ...
-
-📫 How to reach me: ...
-
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
-  
 
 
