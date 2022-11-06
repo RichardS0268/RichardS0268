@@ -25,7 +25,7 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="515" height="360" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="513" height="360" />
 
 🤗 **I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing.**
 
