@@ -25,25 +25,31 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="505" height="360" />
 
-🔭 **I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing.**
+🤗 **I’m currently pusuing my double bachelors degree of computer science and finance in Tsinghua University, Beijing.**
 
-🌱 **I’m interested in _Machine Learning_, _Deep Learning_  and their _applications in finance_.**
+🎯 **I’m interested in _Machine Learning_, _Deep Learning_  and their _applications in finance_.**
 
-⚙ **I'm frequently using**
+⌨ **I'm frequently coding in**
   <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/R.png", height=28px>
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/Matlab.png", height=28px>
+  
+  </div>
+  
+⚙ **I'm continually using**
+  <div align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/numpy.png", height=28px>
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/pandas.png", height=28px>
   <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white">
   </div>
-
-
-
-
+  
+🛸 **I'm familiar with**
+  <div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </div>
