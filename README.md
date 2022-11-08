@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
 
-📊 **this week i spent my time on:**
+📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
