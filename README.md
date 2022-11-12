@@ -11,8 +11,9 @@
 </a> -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268">
 
-![](https://github-readme-stats.vercel.app/api?username=richards0268)
+<img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/contributions.svg">
 
+![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
 📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
