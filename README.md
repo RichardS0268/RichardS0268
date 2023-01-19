@@ -53,6 +53,3 @@ No activity tracked
   
 #### 🚀 My Contributions
 <img src="https://raw.githubusercontent.com/richards0268/richards0268/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-
-
-<a href="https://www.buymeacoffee.com/richardsong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=richardsong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
