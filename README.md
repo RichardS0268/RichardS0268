@@ -9,6 +9,7 @@
 <a href="https://leetcode.cn/u/richard-song-h/">
   <img align="left" alt="Richard's Kaggle" width="22px" src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/leetcode.png" />
 </a>
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268">
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
@@ -52,3 +53,6 @@ No activity tracked
   
 #### 🚀 My Contributions
 <img src="https://raw.githubusercontent.com/richards0268/richards0268/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+
+
+<a href="https://www.buymeacoffee.com/richardsong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=richardsong&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
