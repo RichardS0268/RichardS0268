@@ -17,7 +17,7 @@
 📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 SSH Config   0 secs          █████████████████████████   100.00 %
 ```
 
