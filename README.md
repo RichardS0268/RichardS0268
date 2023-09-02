@@ -18,9 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript         1 hr 50 mins    █████████████░░░░░░░░░░░░   51.67 %
-TSQL             59 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
-ActionScript 3   44 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
