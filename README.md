@@ -1,16 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<a href="https://twitter.com/Richard40071506">
-  <img align="left" alt="Richard's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href= "https://www.linkedin.com/in/shuai-song-21a98320b/">
-  <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://leetcode.cn/u/richard-song-h/">
-  <img align="left" alt="Richard's Kaggle" width="22px" src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/leetcode.png" />
-</a>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=richards0268.richards0268">
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
