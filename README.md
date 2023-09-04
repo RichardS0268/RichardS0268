@@ -7,7 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   0 secs          █████████████████████████   100.00 %
+Python   3 mins          ███████████████████████▓░   94.77 %
+Ezhil    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
