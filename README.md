@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SystemVerilog   4 hrs 13 mins   ████████████████████████▓   98.69 %
+SystemVerilog   4 hrs 13 mins   ████████████████████████▓   98.73 %
 V               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Ezhil           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 XML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Ezhil           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
