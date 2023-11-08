@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SystemVerilog   9 hrs 27 mins   █████████████████████████   99.46 %
-V               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-SSH Config      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+SystemVerilog   3 hrs 3 mins    █████████████████████████   99.62 %
+V               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+SSH Config      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
