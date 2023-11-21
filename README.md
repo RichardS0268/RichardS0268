@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SystemVerilog   58 mins         ██████████████░░░░░░░░░░░   56.43 %
-V               44 mins         ██████████▓░░░░░░░░░░░░░░   42.99 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
