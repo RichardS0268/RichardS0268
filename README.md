@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SystemVerilog   9 hrs 15 mins   ██████████████████████▒░░   88.94 %
+V               47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Assembly        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Python          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
