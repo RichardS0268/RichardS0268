@@ -44,4 +44,4 @@ Other           10 mins         ▒░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
   
-#### 🚀 My Contributions<img src="https://raw.githubusercontent.com/richards0268/richards0268/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+#### 🚀 My Contributions<img src="https://raw.githubusercontent.com/richards0268/richards0268/output/github-contribution-grid-snake.svg">
