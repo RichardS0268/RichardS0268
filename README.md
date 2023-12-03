@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        1 hr 51 mins    ██████████████████████▓░░   90.31 %
+Markdown   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
