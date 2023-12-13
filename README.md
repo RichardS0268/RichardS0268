@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SystemVerilog   11 hrs 36 mins  ██████████████▓░░░░░░░░░░   59.16 %
-Other           3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Markdown        2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-V               46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Batchfile       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+SystemVerilog   14 hrs 23 mins  ██████████████▒░░░░░░░░░░   57.58 %
+Other           3 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+Markdown        2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Batchfile       1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+V               1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
