@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SystemVerilog   3 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.74 %
-Python          3 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.93 %
-Batchfile       1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Other           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Assembly        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python          3 hrs 27 mins   ██████████████████░░░░░░░   71.59 %
+SystemVerilog   1 hr 15 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+Other           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+SSH Config      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Batchfile       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
