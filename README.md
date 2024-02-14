@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 mins          ████████████████████████▓   98.76 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
