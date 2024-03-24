@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       20 mins         ████████████████████▓░░░░   82.71 %
-Git Config   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Python   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
