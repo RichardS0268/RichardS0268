@@ -12,12 +12,16 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
-<!--END_SECTION:waka-->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="513" height="360" />
 
-🤗 **I’m currently pursuing my double bachelors degree of computer science and finance at Tsinghua University, Beijing.**
+🤗 **Background** []
 
-🎯 **I’m interested in _Machine Learning_, _Deep Learning_  and their _applications in quantitative finance_.**
++ Currently pursuing Master of Science in Computational Finance (MSCF) at CMU New York Campus. 
+    
++ Obtained Bachelor of Economics and Bachelor of Engineering from Tsinghua University.
+
+🎯 **Interests**
+
++ Quantitative Finance
 
 ⌨ **I'm frequently coding in**
   <div align="left">
