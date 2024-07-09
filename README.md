@@ -13,7 +13,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 
-🤗 **Background** []
+🤗 **Background**
 
 + Currently pursuing Master of Science in Computational Finance (MSCF) at CMU New York Campus. 
     
@@ -23,16 +23,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 + Quantitative Finance
 
-⌨ **I'm frequently coding in**
+⌨ **Skills**
   <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/R.png", height=28px>
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/Matlab.png", height=28px>
-  
   </div>
-  
-⚙ **I'm continually using**
+
   <div align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/numpy.png", height=28px>
@@ -40,7 +38,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white">
   </div>
   
-🛸 **I'm familiar with**
+
   <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
