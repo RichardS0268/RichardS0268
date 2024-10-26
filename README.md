@@ -15,7 +15,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 🤗 **Background**
 
-+ Currently pursuing Master of Science in Computational Finance (MSCF) at CMU New York Campus. 
++ Currently pursuing Master of Science in Computational Finance (MSCF) at CMU on New York Campus. 
     
 + Obtained Bachelor of Economics and Bachelor of Engineering from Tsinghua University.
 
