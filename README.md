@@ -29,9 +29,8 @@ SSH Config   7 mins          ░░░░░░░░░░░░░░░░░
 ⌨ **Skills**
   <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/R.png", height=28px>
-  <img src="https://github.com/RichardS0268/RichardS0268/blob/main/logo/Matlab.png", height=28px>
   </div>
 
   <div align="left">
