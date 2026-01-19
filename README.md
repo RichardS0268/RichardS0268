@@ -3,17 +3,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=richards0268)
 
-📊 **this week I spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Python   51 mins         ████████████████▓░░░░░░░░   66.76 %
-Text     14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-Other    11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-```
-
-<!--END_SECTION:waka-->
-
 🤗 **Background**
 
 + Currently pursuing Master of Science in Computational Finance (MSCF) at CMU on New York Campus. 
